@@ -6,8 +6,19 @@ Firebase code
 
 -----
 
+## Deployments
+
+My current Firebase deployments...
+
+- [https://fb01-c433c.web.app](https://fb01-c433c.web.app)  
+- [https://fb01-c433c.firebaseapp.com](https://fb01-c433c.firebaseapp.com)  
+
+-----
+
 ## Links
 
 Official web site  
 - https://www.firebase.com  
 - https://firebase.google.com (Firebase console)    
+
+
