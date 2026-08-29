@@ -44,6 +44,20 @@ This is my *own* Firebase site:
 
 -----
 
+**NOTES**:  
+
+I only created the following folders/files:  
+
+- public/index.html  
+- public/images/jpg/me/paul-ramnora.jpg  
+- public/js/js01.js  
+- public/css/css01.css  
+
+...*all* of the other folders/files were **NOT** any of my own creation at all;    
+but, instead, were automatically created by other tools outside of myself.    
+
+-----
+
 ## Links
 
 Official web site  
