@@ -78,21 +78,25 @@ so, I enlisted the help of AI/Artificial Intelligence: gemini.google.com
 - I carried out Gemini instructions...open up a Terminal window/and, type in commands:  
 (there were *many* commands to go type in...some of which worked/some of which did not...;    
 so, I had to ask for further instructions to go fix it...?  
-I recall having to install the latest version of NPM/Node Package Manager/-etc.)  
-- and, a lot of stuff was done using the CLI/Command Line Interface.  
-- Then, I went over to GitHub to test if I could change/update the code there...;    
-and, would those changes reflect inside of the web browser...?  
-- Next, I went back to the CLI to pull/push changes.  
+I recall having to install the latest version of NPM/Node Package Manager/-etc.) 
+- I web over to GitHub to create a folder repository called: Firebase;  
+and, then, *connected* this GitHub folder to be used by Firebase...for web site deployments.  
+- A lot of stuff was done through using the CLI/Command Line Interface.  
+- Then, I went over to GitHub to test if I could *change/update* the code there...;    
+and, would those changes reflect inside of the web browser...? 
+(At first, my web site changes did NOT appear? But, Gemini explained...;  
+it's because you need to store your [index.html] file inside of the folder called: public;   
+then, the changes appeared.   
+- Next, I went back to the CLI to use Git to both *pull/push* changes.  
 ...and, so on.  
 
-I wish I could explain everything in just *one* single sentence...;  
+I wish I could explain everything in just *one* single sentence, alone...;  
 but, I'm afraid, it just didn't quite go like that...;     
 there is a *learning curve* which one has to be willing to rather patiently climb.    
 All of that said and done, though...;  
-I was actually able to get a web site fully up and working within the space of a hour/or, two.  
+I was actually able to get a Firebase web site fully up and working within the space of a hour/or, two.  
 
-I'm sure, though, that far more highly experienced people...would be able to deploy their web site, immediately, right away;  
-and, with very little messing around...or, fuss.  
+I'm sure, though, that far more highly experienced people...would be able to deploy their web site just, instantly.  
 
 
 
