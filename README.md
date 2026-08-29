@@ -1,7 +1,7 @@
 # Firebase  
 
 **CREATED**: *Fri 28 Aug 2026 16:18 PM GMT*  
-**UPDATED**: *Sat 29 Aug 2026 12:20 PM GMT*  
+**UPDATED**: *Sat 29 Aug 2026 13:11 PM GMT*  
 
 -----
 
@@ -97,9 +97,10 @@ I wish I could explain everything in just *one* single sentence, alone...;
 but, I'm afraid, it just didn't quite go like that...;     
 you find yourself moving between different technologies:
 
+- AI/Artificial Intelligence (whenever you get 'stuck'...?! And, do desperately **need** help to get 'unstuck'..)  
 - Firebase  
 - CLI/Command Line Interface    
-- Git (lots of Git commands to remember...how to sign in using: email/password...how to push/pull changes)  
+- Git (lots of Git commands to remember...how to sign in using: *email/password*...how to *push/pull* changes)  
 - GitHub (I had to generate a private password; thus, allowing me to log in through the CLI)   
 - NPM/Node Package Manager (had to 'update' it)   
 - etc.  
