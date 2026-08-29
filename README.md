@@ -135,6 +135,9 @@ Official web site
 
 ### YouTube Videos  
 
+YouTube Channel: Firebase  
+-https://www.youtube.com/@Firebase    
+
 Introducing Firebase Notifications  
 - https://www.youtube.com/watch?v=rTB7fTqMlS0&t=37s  
 
