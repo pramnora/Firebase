@@ -93,6 +93,10 @@ then, the changes appeared.
   that needed to be sorted out on the Git end of things.   
 ...and, so on.  
 
+-----
+
+## Summary
+
 I wish I could explain everything in just *one* single sentence, alone...;  
 but, I'm afraid, it just didn't quite go like that...;     
 you find yourself moving between different technologies:
@@ -111,7 +115,7 @@ All of that said and done, though...;
 I was actually able to get a Firebase web site fully up and working within the space of a hour/or, two.  
 
 I'm sure, though, that far more highly experienced people than me...  
-would be able to deploy their web site just, instantly.  
+would be able to deploy their web site even just, instantly.  
 
 
 
