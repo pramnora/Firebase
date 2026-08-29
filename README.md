@@ -2,7 +2,7 @@
 Firebase code
 
 **CREATED**: *Fri 28 Aug 2026 16:18 PM GMT*  
-**UPDATED**: *Sat 29 Aug 2026 10:24 AM GMT*  
+**UPDATED**: *Sat 29 Aug 2026 10:26 AM GMT*  
 
 -----
 
@@ -26,6 +26,8 @@ My own personal experience so far to date is, one can build web sites using stan
 - graphic files  
 - etc.  
 
+-----
+
 This is my *own* Firebase site:  
 
 - https://fb01-c433c.web.app  
@@ -35,17 +37,8 @@ This is my *own* Firebase site:
 
 - the site comes with it's own SSL hosting certificate: https://  
 - you are automatically given 2 web site URL's to use.       
+- the above site is stored inside of my GitHub repository which is called: Firebase   
 
------
-
-## Deployments
-
-My current Firebase deployments...
-
-### FB01
-
-- [https://fb01-c433c.web.app](https://fb01-c433c.web.app)  
-- [https://fb01-c433c.firebaseapp.com](https://fb01-c433c.firebaseapp.com)  
 
 -----
 
