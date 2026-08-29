@@ -56,6 +56,11 @@ I, personally speaking, did only create the following folders/files:
 ...*all* of the other folders/files were **NOT** any of my own creation at all;    
 but, instead, were automatically created by other tools outside of myself.    
 
+As a matter of fact...; now, that I think about it...;   
+I didn't create the *public* folder, neither;   
+instead, it was created by some other tool...;  
+this *public* folder is where your web pages/and, other resources will be served from.  
+
 -----
 
 ## Links
