@@ -46,7 +46,7 @@ This is my *own* Firebase site:
 
 **NOTES**:  
 
-I only created the following folders/files:  
+I, personally speaking, did only create the following folders/files:  
 
 - public/index.html  
 - public/images/jpg/me/paul-ramnora.jpg  
