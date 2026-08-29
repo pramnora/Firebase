@@ -69,8 +69,17 @@ and, what is it all meant to be about...???
 
 ## Links
 
+-----
+
+### Web sites  
+
 Official web site  
 - https://www.firebase.com  
 - https://firebase.google.com (Firebase console)    
+
+-----
+
+### YouTube Videos  
+
 
 
