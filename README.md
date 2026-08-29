@@ -1,7 +1,7 @@
 # Firebase  
 
 **CREATED**: *Fri 28 Aug 2026 16:18 PM GMT*  
-**UPDATED**: *Sat 29 Aug 2026 13:11 PM GMT*  
+**UPDATED**: *Sat 29 Aug 2026 14:17 PM GMT*  
 
 -----
 
@@ -136,7 +136,7 @@ Official web site
 ### YouTube Videos  
 
 YouTube Channel: Firebase  
--https://www.youtube.com/@Firebase    
+- https://www.youtube.com/@Firebase    
 
 Introducing Firebase Hosting  
 - https://www.youtube.com/watch?v=jsRVHeQd5kU  
