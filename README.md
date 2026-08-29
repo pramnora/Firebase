@@ -46,11 +46,11 @@ This is my *own* Firebase site:
 
 **NOTES**:  
 
-At first, one looks at this *codebase*...; containing so **many** folders/files...;  
+At first, one looks at this entire *codebase*...; containing so **many** folders/files...;  
 and, then, one can't help but thinking to oneself...; that's, really and truly, *complex*...?!   
 
 But, no, please, do not be fooled ever so easily;   
-the honest truth is, I only created the following list of folders/files:  
+the honest truth is, I only created the following list of folders/files(3 files/1 image):  
 
 - public/index.html  
 - public/resources/images/jpg/me/paul-ramnora.jpg  
