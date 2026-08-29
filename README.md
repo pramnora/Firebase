@@ -1,5 +1,4 @@
-# Firebase
-Firebase code
+# Firebase  
 
 **CREATED**: *Fri 28 Aug 2026 16:18 PM GMT*  
 **UPDATED**: *Sat 29 Aug 2026 10:34 AM GMT*  
