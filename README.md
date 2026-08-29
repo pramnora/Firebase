@@ -138,6 +138,9 @@ Official web site
 YouTube Channel: Firebase  
 -https://www.youtube.com/@Firebase    
 
+Introducing Firebase Hosting  
+- https://www.youtube.com/watch?v=jsRVHeQd5kU  
+
 Introducing Firebase Notifications  
 - https://www.youtube.com/watch?v=rTB7fTqMlS0&t=37s  
 
