@@ -33,6 +33,7 @@ header,footer{
 /* classes */
 
 .clsPara{
+ color:green; /* test */
  text-indent:1cm;
 }
 
@@ -40,3 +41,12 @@ header,footer{
  color:red; 
  font-style:italic;  
 }
+
+/* IDs */  
+
+#idDivImage{
+ text-align:center;
+} 
+
+
+#' 
