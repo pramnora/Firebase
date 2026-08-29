@@ -1,0 +1,14 @@
+body{
+ font-family:arial,verdana,sans-serif;
+}
+
+header,footer{
+ text-align:center;
+}
+
+/* classes */
+
+.clsDateTimeStamp{
+ color:red; 
+ font-style:italic;  
+}
