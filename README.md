@@ -8,7 +8,13 @@ Firebase code
 
 ## Introduction  
 
-Firebase, is another way to both host/deploy web sites for FREE.  
+Firebase, is another way to both *host/deploy* web sites.
+
+It is a Google owned technology...; and, you need to *sign up* in order to use their online service;   
+there are both FREE/and, too, paid for a/c's.  
+
+Right now, I'm still *new* to using Firebase...;  
+but, I believe ordinary users can use the service for FREE.  
 
 -----
 
