@@ -2,7 +2,13 @@
 Firebase code
 
 **CREATED**: *Fri 28 Aug 2026 16:18 PM GMT*  
-**UPDATED**: *Fri 28 Aug 2026 16:18 PM GMT*  
+**UPDATED**: *Sat 29 Aug 2026 09:51 AM GMT*  
+
+-----
+
+## Introduction  
+
+Firebase, is another way to both host/deploy web sites for FREE.  
 
 -----
 
