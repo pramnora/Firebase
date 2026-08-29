@@ -53,7 +53,8 @@ I, personally speaking, did only create the following folders/files:
 - public/js/js01.js  
 - public/css/css01.css  
 
-...*all* of the other folders/files were **NOT** any of my own creation at all;    
+...*all* of the other folders/files which you see being listed here...;  
+were **NOT** any of my own creation at all;    
 but, instead, were automatically created by other tools outside of myself.    
 
 As a matter of fact...; now, that I think about it...;   
