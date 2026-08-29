@@ -3,15 +3,24 @@
  Firebase 01
  -------------------------------------
  CREATED: Sat 29 Aug 2026 09:46 AM GMT
- UPDATED: Sat 29 Aug 2026 09:46 AM GMT
+ UPDATED: Sat 29 Aug 2026 09:49 AM GMT
 */
 
 html{
+ background-color:black;
  text-indent:1cm;
+}
+
+body,header,footer{
+ color:white;
 }
 
 body{
  font-family:arial,verdana,sans-serif;
+}
+
+main{
+ background-color:white; 
 }
 
 header,footer{
