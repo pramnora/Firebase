@@ -72,22 +72,25 @@ and, what is it all meant to be about...???
 I'm trying to think about what was the exact process I used to go and create this my first Firebase web site...???    
 Quite honestly, I cannot fully remember what was each step..; but, I'll try.  
 
-- Signed up at: firebase.com...give them you email/connect up your Google a/c./create a project there by giving the project a name: FB01.    
-- ...then, I got 'stuck'...; really not sure how to go about using the service...?  
+- Signed up at: firebase.com...give them your email/connect up your Google a/c.; next, create a project there by giving the project a name: FB01.
+- I recall Firebase.com had instructions about how to create a site by typing in some instructions at the CLI...but, that didn't work...?!     
+- When I got 'stuck'...; really not sure how to go about using the service...?  
 so, I enlisted the help of AI/Artificial Intelligence: gemini.google.com  
 - I carried out Gemini instructions...open up a Terminal window/and, type in commands:  
 (there were *many* commands to go type in...some of which worked/some of which did not...;    
 so, I had to ask for further instructions to go fix it...?  
 I recall having to install the latest version of NPM/Node Package Manager/-etc.) 
-- I web over to GitHub to create a folder repository called: Firebase;  
+- I went over to GitHub to create a folder repository called: Firebase;  
 and, then, *connected* this GitHub folder to be used by Firebase...for web site deployments.  
 - A lot of stuff was done through using the CLI/Command Line Interface.  
 - Then, I went over to GitHub to test if I could *change/update* the code there...;    
-and, would those changes reflect inside of the web browser...? 
-(At first, my web site changes did NOT appear? But, Gemini explained...;  
+and, would those changes reflect inside of the web browser...?  
+(At first, my web site changes did NOT appear? But, Gemini explained...;    
 it's because you need to store your [index.html] file inside of the folder called: public;   
 then, the changes appeared.   
-- Next, I went back to the CLI to use Git to both *pull/push* changes.  
+- Next, I went back to the CLI to use Git to both *pull/push* changes...;    
+  and, sometimes, there were problems like 'merge conflicts'  
+  that needed to be sorted out on the Git end of things.   
 ...and, so on.  
 
 I wish I could explain everything in just *one* single sentence, alone...;  
