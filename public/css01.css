@@ -1,3 +1,15 @@
+/* 
+ CSS Stylesheet for web site: 
+ Firebase 01
+ -------------------------------------
+ CREATED: Sat 29 Aug 2026 09:46 AM GMT
+ UPDATED: Sat 29 Aug 2026 09:46 AM GMT
+*/
+
+html{
+ text-indent:1cm;
+}
+
 body{
  font-family:arial,verdana,sans-serif;
 }
@@ -7,6 +19,10 @@ header,footer{
 }
 
 /* classes */
+
+.clsPara{
+ text-indent:1cm;
+}
 
 .clsDateTimeStamp{
  color:red; 
