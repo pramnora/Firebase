@@ -2,7 +2,7 @@
 Firebase code
 
 **CREATED**: *Fri 28 Aug 2026 16:18 PM GMT*  
-**UPDATED**: *Sat 29 Aug 2026 09:51 AM GMT*  
+**UPDATED**: *Sat 29 Aug 2026 10:21 AM GMT*  
 
 -----
 
@@ -28,7 +28,10 @@ My own personal experience so far to date is, one can build web sites using stan
 
 My own Firebase site:  
 
-- https://fb01-c433c.firebaseapp.com/  
+- fb01-c433c.web.app  
+- https://fb01-c433c.firebaseapp.com/    
+
+...as the above example shows, you are automatically given 2 web site URL's to use.    
 
 -----
 
