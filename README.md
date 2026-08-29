@@ -36,7 +36,7 @@ This is my *own* Firebase site:
 -- https://fb01-c433c.web.app  
 -- https://fb01-c433c.firebaseapp.com/    
 - You can link to a GitHub repository to automatically *store: change, update/deploy* the code:        
-- https://www.github.com/pramnora/Firebase   
+-- https://www.github.com/pramnora/Firebase   
 - It is also possible to use Git to both *pull/push* changes to the site from off your own local computer at home.    
 
 -----
