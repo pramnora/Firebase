@@ -92,11 +92,22 @@ then, the changes appeared.
 
 I wish I could explain everything in just *one* single sentence, alone...;  
 but, I'm afraid, it just didn't quite go like that...;     
-there is a *learning curve* which one has to be willing to rather patiently climb.    
+you find yourself moving between different technologies:
+
+- Firebase  
+- CLI/Command Line Interface    
+- Git  
+- GitHub  
+- NPM/Node Package Manager    
+- etc.  
+
+...so, there is a *learning curve* which one has to be willing to rather patiently climb.    
+
 All of that said and done, though...;  
 I was actually able to get a Firebase web site fully up and working within the space of a hour/or, two.  
 
-I'm sure, though, that far more highly experienced people...would be able to deploy their web site just, instantly.  
+I'm sure, though, that far more highly experienced people than me...  
+would be able to deploy their web site just, instantly.  
 
 
 
