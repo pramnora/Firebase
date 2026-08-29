@@ -99,9 +99,9 @@ you find yourself moving between different technologies:
 
 - Firebase  
 - CLI/Command Line Interface    
-- Git  
-- GitHub  
-- NPM/Node Package Manager    
+- Git (lots of Git commands to remember...how to sign in using: email/password...how to push/pull changes)  
+- GitHub (I had to generate a private password; thus, allowing me to log in through the CLI)   
+- NPM/Node Package Manager (had to 'update' it)   
 - etc.  
 
 ...so, there is a *learning curve* which one has to be willing to rather patiently climb.    
