@@ -16,6 +16,13 @@ there are both FREE/and, too, paid for a/c's.
 Right now, I'm still *new* to using Firebase...;  
 but, I believe ordinary users can use the service for FREE.  
 
+My own personal experience so far to date is, one can build web sites using standard web page building technologies:    
+- html  
+- css  
+- javascript  
+- graphic files  
+- etc.  
+
 -----
 
 ## Deployments
