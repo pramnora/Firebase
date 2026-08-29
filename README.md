@@ -135,5 +135,14 @@ Official web site
 
 ### YouTube Videos  
 
+Introducing Firebase Notifications  
+- https://www.youtube.com/watch?v=rTB7fTqMlS0&t=37s  
+
+Introducing Firebase Crash Reporting   
+- https://www.youtube.com/watch?v=B7mlLVAkcfU&t=12s  
+ 
+Introducing Firebase and AdMob by Google   
+- https://www.youtube.com/watch?v=EPKmYheOmiw&t=3s  
+
 
 
