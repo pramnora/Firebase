@@ -36,11 +36,11 @@ This is my *own* Firebase site:
 
 ...as the above example shows:  
 
-- The site comes with it's own FREE SSL hosting certificate: https://  
+- The site comes with it's own FREE SSL web site hosting certificate: https://  
 - You are given 2 x slightly different web site URL addresses to use.         
-- You can link to a GitHub repository to automatically *store/deploy* the code:        
+- You can link to a GitHub repository to automatically *store: change, update/deploy* the code:        
 - https://www.github.com/pramnora/Firebase   
-- It is also possible to use Git to both *pull/push* changes to the site from off your local home computer.  
+- It is also possible to use Git to both *pull/push* changes to the site from off your own local computer at home.    
 
 -----
 
