@@ -46,25 +46,23 @@ This is my *own* Firebase site:
 
 **NOTES**:  
 
-At first, one looks at the *codebase*...; containing so **many** folders/files...;  
+At first, one looks at this *codebase*...; containing so **many** folders/files...;  
 and, then, one can't help but thinking to oneself...; that's, really and truly, *complex*...?!   
 
-But, no, please, do not be fooled so easily;   
+But, no, please, do not be fooled ever so easily;   
 the honest truth is, I only created the following list of folders/files:  
 
 - public/index.html  
-- public/images/jpg/me/paul-ramnora.jpg  
-- public/js/js01.js  
-- public/css/css01.css  
+- public/resources/images/jpg/me/paul-ramnora.jpg  
+- public/resources/js/js01.js  
+- public/resources/css/css01.css  
 
-...*all* of the other folders/files which you see being listed here...;  
-were **NOT** any of my own creation at all;    
-but, instead, were automatically created by other tools outside of myself.    
+...the *public* folder is what Firebase itself uses to serve up your web site;  
+so, I just simply popped my own *folders/files* inside there to be served;  
+I did **not** create the folder called: *public*.  
 
-As a matter of fact...; now, that I think about it...;   
-I didn't create the *public* folder, neither;   
-instead, it was created by some other tool...;  
-this *public* folder is where your web pages/and, other resources will be served from.  
+Everything else, including *all* the rest of the *folders/files* was **NOT** any of my own creation at all;      
+but, instead, was automatically created by other tools entirely outside of myself.    
 
 -----
 
