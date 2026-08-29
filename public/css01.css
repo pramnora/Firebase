@@ -3,7 +3,7 @@
  Firebase 01
  -------------------------------------
  CREATED: Sat 29 Aug 2026 09:46 AM GMT
- UPDATED: Sat 29 Aug 2026 10:04 AM GMT
+ UPDATED: Sat 29 Aug 2026 10:06 AM GMT
 */
 
 html{
@@ -16,12 +16,12 @@ body,header,footer{
 }
 
 body{
- padding:1cm;
  font-family:arial,verdana,sans-serif;
  color:black;
 }
 
 main{
+ padding:10px;
  border-radius:10px;
  background-color:white; 
 }
