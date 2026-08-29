@@ -28,6 +28,8 @@ My own personal experience so far to date is, one can build web sites using stan
 
 -----
 
+## Example site  
+
 This is my *own* Firebase site:  
 
 - https://fb01-c433c.web.app  
