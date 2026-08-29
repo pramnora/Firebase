@@ -2,7 +2,7 @@
 Firebase code
 
 **CREATED**: *Fri 28 Aug 2026 16:18 PM GMT*  
-**UPDATED**: *Sat 29 Aug 2026 10:26 AM GMT*  
+**UPDATED**: *Sat 29 Aug 2026 10:28 AM GMT*  
 
 -----
 
@@ -37,7 +37,8 @@ This is my *own* Firebase site:
 
 - the site comes with it's own SSL hosting certificate: https://  
 - you are automatically given 2 web site URL's to use.       
-- the above site is stored inside of my GitHub repository which is called: Firebase   
+- all code for the above site is stored inside of my GitHub repository which is called: Firebase:  
+- https://www.github.com/pramnora/Firebase   
 
 
 -----
