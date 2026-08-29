@@ -46,7 +46,11 @@ This is my *own* Firebase site:
 
 **NOTES**:  
 
-I, personally speaking, did only create the following folders/files:  
+At first, one looks at the *codebase*...; containing so **many** folders/files...;  
+and, then, one can't help but thinking to oneself...; that's, really and truly, *complex*...?!   
+
+But, no, please, do not be fooled so easily;   
+the honest truth is, I only created the following list of folders/files:  
 
 - public/index.html  
 - public/images/jpg/me/paul-ramnora.jpg  
